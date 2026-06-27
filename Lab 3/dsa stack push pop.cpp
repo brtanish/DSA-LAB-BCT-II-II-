@@ -1,3 +1,5 @@
+//stack push and pop implementation in c++ dsa
+
 #include<iostream>
 #define MAX 5
 using namespace std;
