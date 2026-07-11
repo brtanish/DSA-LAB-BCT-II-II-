@@ -62,5 +62,4 @@ int main()
 		postfix[j]='\0';
 		cout<<"Postfix is: "<<postfix;
 		return 0;
-	
 }
